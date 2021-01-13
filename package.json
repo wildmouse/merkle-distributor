@@ -15,7 +15,7 @@
     "url": "https://github.com/Uniswap/merkle-distributor"
   },
   "files": [
-    "build"
+    "contracts"
   ],
   "engines": {
     "node": ">=10"
